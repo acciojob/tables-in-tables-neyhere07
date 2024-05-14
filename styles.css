@@ -1,2 +1,32 @@
 
 /* Your CSS Code here. */
+
+#HTML{
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+    
+}
+#html{
+    justify-content: center;
+}
+#abc{
+    text-align: center;
+}
+#HTML{
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+    
+}
+#html{
+    justify-content: center;
+}
+#abc{
+    text-align: center;
+}
+table,tr,td{
+	border-color: black;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
